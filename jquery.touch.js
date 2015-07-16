@@ -2,6 +2,7 @@
  * name: jquery.touch.js
  * description: 在jquery的基础上扩展触摸事件，由百度Touch.js改进而来
  * author: season.chen
+ * source: https://github.com/ccqgithub/jquery-touch
  */
 
 +function() {
